@@ -388,6 +388,13 @@ var myConfig = {
               'tooltip': {
                 text: 'Why is Maine so...<br><b>CREEPY</b>'
               }
+            },
+            DC: {
+              'background-color': '#3cba54',
+              'border-color': 'white',
+              'tooltip': {
+                text: 'Why is Washington D.C. so...<br><b>BLACK</b>'
+              }
             }
           }
         }
